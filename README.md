@@ -1,6 +1,9 @@
 # Gamingify Chat App
 
-![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
+<img src="screenshots/ss1.png" alt="GAMINIGIFY">
+
+## Host Link
+View Website Live at https://gamingify.netlify.app
 
 ## Introduction
 This is a code repository for Real-Time Chat Application Project.
